@@ -3,21 +3,15 @@
       "value": "West US"
   },
   "virtualNetworkName": {
-      "value": "myVNET"
+      "value": "hackvnet02"
   },
   "subnet1Name": {
-      "value": "Subnet-1"
-  },
-  "subnet2Name": {
-      "value": "Subnet-2"
+      "value": "Subnet-A"
   },
   "addressPrefix": {
-      "value": "10.0.0.0/16"
+      "value": "192.168.0.0/26"
   },
-  "subnet1Prefix": {
-      "value": "10.0.0.0/24"
-  },
-  "subnet2Prefix": {
-      "value": "10.0.1.0/24"
+  "subnetAPrefix": {
+      "value": "192.168.0.0/26"
   }
 }
